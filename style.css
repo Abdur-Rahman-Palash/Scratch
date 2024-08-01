@@ -319,3 +319,63 @@ width: 1255px;
     margin: 0 auto;
     margin-top: 45px;
 }
+.teachers-text h1{
+    font-size: 4rem;
+    
+}
+.teachers-text{
+    text-align: center;
+}
+.teachers-card-1 img{
+    border-radius: 50%;
+    width: 250px;
+}
+.teachers-card-2 img{
+    border-radius: 50%;
+    width: 250px;
+}
+.teachers-card-3 img{
+    border-radius: 50%;
+    width: 250px;
+}
+.teachers-cards1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.teachers-cards2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 90px;
+}
+.footer{
+    width: 1255px;
+    margin: 0 auto;
+    background: #2D6B4F;
+    margin-top: 90px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 30px;
+    height: 400px;
+}
+.footer-end{
+    margin-left: 70px;
+    font-size: 1.2rem;
+}
+.second-text1 h1{
+    color: white;
+}
+.footer-1 p{
+    color: white;
+}
+.footer-2 p{
+    color: white;
+}
+.footer-3 p{
+    color: white;
+}
+.footer-4 p{
+    color: white;
+}
