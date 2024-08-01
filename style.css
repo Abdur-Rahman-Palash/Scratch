@@ -24,7 +24,7 @@ nav{
     gap: 10px;
 }
 .second-image img{
-    width: 90px;
+    width: 100px;
    
 }
 .second-content{
@@ -89,6 +89,8 @@ width: 1255px;
 .Announcement-text h1{
     text-align: center;
     color: #B11B1B;
+    font-family: "Roboto", sans-serif;
+    font-size: 2rem;
 }
 .Announcement-text h2{
     text-align: center;
@@ -197,7 +199,123 @@ width: 1255px;
 .enroll-text1{
     text-align: center;
     font-size: 2rem;
+    font-family: "Roboto", sans-serif;
 }
 .enroll-text{
     text-align: center;
+}
+.Prospectus-text{
+    background: #EAF0D8;
+}
+.Prospectus-text h3{
+    text-align: center;
+} 
+.prospectus-ulom{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    gap: 30px;
+    border: 2px solid whitesmoke;
+    box-shadow: 0px 6px 50px 0px rgba(255, 255, 255, 0.699);
+}
+.Prospectus-cards{
+    width: 1255px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.prospectus-ulom-image img{
+    width: 200px;
+    height: 200px;
+}
+.btn{
+    background:#66A637 ;
+    color:white;
+    margin-top: 10px;
+    padding: 8px;
+    border-radius: 8px;
+    border: none;
+    width: 400px;
+}
+.button{
+    text-align: center;
+}
+.Prospectus-card-1{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    width: 1255px;
+}
+.Prospectus-card-2{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    width: 1255px;
+    margin-top: 40px;
+}
+.Welcome{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+.Hybrid-Pattern-text h2{
+    background: #EBF0E9;
+    text-align: center;
+}
+.Hybrid-Pattern-text p{
+    text-align: center;
+}
+.Hybrid-Pattern{
+    width: 1255px;
+    margin: 0 auto;
+    margin-top: 45px;
+}
+.Welcome-text h1{
+    font-size: 2rem;
+}
+.vision-mission-head{
+    width: 1150px;
+    height: 50px;
+    border: 2px solid #CCDDC3;
+    background:#CCDDC3 ;
+    margin: 0 auto;
+}
+.vision-mission{
+    width: 1255px;
+    margin: 0 auto;
+    margin-top: 45px;
+}
+.vision-image img{
+    width: 400px;
+}
+.mission-image img{
+    width: 400px;
+}
+.vision{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 95px;
+}
+.mission{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 95px;
+}
+.btn-vision{
+    background: #66A637;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    font-size: 16px;
+}
+.teachers{
+    width: 1255px;
+    margin: 0 auto;
+    margin-top: 45px;
 }
