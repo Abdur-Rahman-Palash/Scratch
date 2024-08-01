@@ -287,24 +287,29 @@ width: 1255px;
 }
 .vision-image img{
     width: 400px;
+    margin-right: 150px;
 }
 .mission-image img{
     width: 400px;
+    margin-left: 150px;
 }
 .vision{
-    margin-top: 40px;
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 95px;
+    border-left: 5px solid #66A637;
+    width: 1170px;
+    margin: 40px auto;
 }
 .mission{
-    margin-top: 40px;
-    margin-bottom: 40px;
+    width: 1170px;
+    margin: 40px auto;
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 95px;
+    border-right: 5px solid #66A637;
 }
 .btn-vision{
     background: #66A637;
