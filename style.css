@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 nav{
-    width: 1250px;
+    width: 1255px;
     height: 200px;
     margin: 0 auto;
 }
@@ -9,7 +9,7 @@ nav{
     justify-content: space-between;
     align-items: center;
     gap: 30px;
-    width: 1245px;
+    width: 1255px;
     height: 50px;
     background-color: #EAF0D8;
 }
@@ -50,7 +50,7 @@ nav{
 .fa-brands{
     background-color: #4F8E63;
     padding: 8px;
-    border-radius: 6px;
+    border-radius: 50%;
     color: white;  
 }
 
@@ -59,7 +59,7 @@ nav{
     justify-content: space-between;
     align-items: center;
     gap: 30px;
-    width: 1245px;
+    width: 1255px;
     height: 90px;
 }
 .third-nav-options{
@@ -68,8 +68,8 @@ nav{
 justify-content: space-evenly;
 align-items: center;
 background-color: #2D6B4F;
-width: 1245px;
-    height: 50px;
+width: 1255px;
+    height: 70px;
 }
 .third-nav-options p{
     color: white;
@@ -77,4 +77,127 @@ width: 1245px;
 .third-nav-options p:hover{
     text-decoration: underline;
     text-decoration-color: #E9EFD7;
+}
+.slider img{
+    width: 1255px;
+}
+.Announcement{
+    width: 1255px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.Announcement-text h1{
+    text-align: center;
+    color: #B11B1B;
+}
+.Announcement-text h2{
+    text-align: center;
+}
+.Announcement-text h3{
+    text-align: center;
+}
+.book{
+    text-align: center;
+    color: white;
+    padding: 10px;
+    font-size: 3rem;
+}
+.Announcement-card{
+    margin-top: 40px;
+    background:#2D6B4F ;
+    padding: 10px;
+    width: 1000px;
+    border-radius: 15px;
+    margin: 0 auto;
+}
+.Announcement-card h2{
+    text-align: center;
+    color: white;
+}
+.Announcement-card p{
+    text-align: center;
+    color: white;
+}
+.enroll-cards{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+}
+.enroll-card-1{
+    background: #2D6B4F;
+}
+.enroll-card-1 h1{
+    text-align: center;
+    color: white;
+    font-size: 3rem;
+}
+.enroll-card-1 h3{
+    text-align: center;
+    color: white;
+    font-size: 1.5rem;
+}
+
+.enroll-card-2{
+    background: #2D6B4F;
+    width: 200px;
+}
+.enroll-card-2 h1{
+    text-align: center;
+    color: white;
+    font-size: 3rem;
+}
+.enroll-card-2 h3{
+    text-align: center;
+    color: white;
+    font-size: 1.5rem;
+}
+.enroll-card-3{
+    background: #2D6B4F;
+    width: 200px;
+}
+.enroll-card-3 h1{
+    text-align: center;
+    color: white;
+    font-size: 3rem;
+}
+.enroll-card-3 h3{
+    text-align: center;
+    color: white;
+    font-size: 1.5rem;
+}
+.enroll-card-4{
+    background: #2D6B4F;
+    width: 200px;
+}
+.enroll-card-4 h1{
+    text-align: center;
+    color: white;
+    font-size: 3rem;
+}
+.enroll-card-4 h3{
+    text-align: center;
+    color: white;
+    font-size: 1.5rem;
+}
+.enroll-card-1{
+    background: #2D6B4F;
+    width: 300px;
+}
+.enroll-card-1 h1{
+    text-align: center;
+    color: white;
+    font-size: 3rem;
+}
+.enroll-card-1 h3{
+    text-align: center;
+    color: white;
+    font-size: 1.5rem;
+}
+.enroll-text1{
+    text-align: center;
+    font-size: 2rem;
+}
+.enroll-text{
+    text-align: center;
 }
